@@ -1,5 +1,5 @@
-const Roteador = require('./roteador.js');
-const Servidor = require('./servidor.js');
+const Roteador = require('./roteador');
+const Servidor = require('./servidor');
 
 const roteador = new Roteador();
 
